@@ -121,7 +121,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 ## 🧩 Link Desain & Kolaborasi
 
 - 🎨 **Figma (Prototype):** [Klik di sini](https://www.figma.com/link-figma-prototype)
-- 🧠 **FigJam (Ideation Board):** [Klik di sini](https://www.figma.com/link-figjam-board)
+- 🧠 **FigJam (Ideation Board):** [Klik di sini](https://www.figma.com/design/pbbDVowQD380IuRXnKksIn/Untitled?node-id=0-1&t=oLo1xeTSS14mtX67-1)
 - 🧠 **Miro (Brainstorming Board):** [Klik di sini](https://miro.com/app/board/uXjVJ5xTT9g=/)
 
 > *(Silakan ganti link di atas dengan tautan asli proyek timmu.)*
