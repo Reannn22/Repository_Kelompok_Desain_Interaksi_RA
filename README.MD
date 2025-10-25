@@ -15,8 +15,8 @@ Berbeda dari platform umum, ClassTera dirancang agar setiap institusi pendidikan
 
 | Nama | NIM | Peran |
 |------|------|-------|
-| Romualdus Hary Prabowo | 123140083 | Pengembang Backend |
-| Cikal Galih Nur Arifin | 123140109 | Pengembang Frontend |
+| Romualdus Hary Prabowo | 123140083 | Project manager (PM) |
+| Cikal Galih Nur Arifin | 123140109 | UI/UX Designer |
 | Ahmad Ali Mukti | 123140155 | UX Researcher |
 | Reyhan Capri Moraga | 123140022 | System Analyst & Dokumentasi |
 | Ola Anggela Rosita | 123140042 | UI/UX Designer |
@@ -48,7 +48,7 @@ ClassTera hadir sebagai solusi untuk:
 ## 🧩 Identifikasi Masalah
 
 1. Rendahnya tingkat **inklusi dan aksesibilitas** dalam platform pembelajaran umum.  
-2. Tidak adanya **identitas visual sekolah** pada platform belajar digital.  
+2. Tidak adanya **identitas visual sekolah** pada platform belajar digital umum.  
 3. Kompleksitas dalam **pengelolaan materi dan tugas** antar guru dan siswa.  
 
 ---
@@ -61,10 +61,10 @@ ClassTera dikembangkan sebagai **website e-learning mandiri** dengan fitur-fitur
 
 | Fitur | Deskripsi |
 |-------|------------|
-| **Kustomisasi Identitas Sekolah** | Admin dapat menyesuaikan logo, warna, dan branding sekolah. |
+| **Kustomisasi Identitas Sekolah** | Menyesuaikan logo, warna, dan branding sekolah. |
 | **Dashboard Terintegrasi** | Semua materi, tugas, dan jadwal dikumpulkan dalam satu halaman utama. |
 | **Modul Pembelajaran Interaktif** | Fitur kuis, forum diskusi, dan akses mobile-friendly. |
-| **Manajemen Pengguna dan Peran** | Sistem admin, guru, dan siswa dengan hak akses berbeda. |
+| **Manajemen Pengguna dan Peran** | Sistem guru, dan siswa dengan hak akses berbeda. |
 
 ---
 
@@ -74,7 +74,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ### Tahapan Design Thinking
 
-1. **Empathize** — Wawancara & survei terhadap guru, siswa, dan admin sekolah.  
+1. **Empathize** — Wawancara & survei terhadap guru, siswa.  
 2. **Define** — Penyusunan persona dan problem statement berdasarkan hasil riset.  
 3. **Ideate** — Brainstorming dan pembuatan wireframe ide awal.  
 4. **Prototype** — Desain antarmuka interaktif menggunakan Figma.  
@@ -86,7 +86,6 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 - **Siswa (13–18 tahun):** Membutuhkan akses mudah terhadap materi & tugas.  
 - **Guru:** Memerlukan alat efisien untuk membuat, membagikan, dan menilai tugas.  
-- **Admin Sekolah:** Menginginkan panel kontrol mudah untuk mengelola pengguna dan branding sekolah.
 
 ---
 
@@ -112,10 +111,6 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 - **User:** Ibu Budiarti  
 - **Flow:** Login → Dasbor Guru → Pilih Kelas → Buat Tugas → Publikasikan → Notifikasi ke siswa  
 
-### 3️⃣ Skenario Admin – Menyesuaikan Tampilan Sekolah  
-- **User:** Bapak Hermawan  
-- **Flow:** Login → Panel Admin → Ubah Logo & Warna → Simpan → Tampil di seluruh platform  
-
 ---
 
 ## 🧩 Link Desain & Kolaborasi
@@ -124,7 +119,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 - 🧠 **FigJam (Ideation Board):** [Klik di sini](https://www.figma.com/design/pbbDVowQD380IuRXnKksIn/Untitled?node-id=0-1&t=oLo1xeTSS14mtX67-1)
 - 🧠 **Miro (Brainstorming Board):** [Klik di sini](https://miro.com/app/board/uXjVJ5xTT9g=/)
 
-> *(Silakan ganti link di atas dengan tautan asli proyek timmu.)*
+
 
 ---
 
@@ -141,7 +136,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ## 📚 Lisensi
 
-Proyek ini dikembangkan sebagai bagian dari mata kuliah **Proyek Pengembangan Perangkat Lunak** di  
+Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Proyek Pengembangan Perangkat Lunak** di  
 **Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA)**.
 
 © 2025 Kelompok XII – All rights reserved.
@@ -152,5 +147,4 @@ Proyek ini dikembangkan sebagai bagian dari mata kuliah **Proyek Pengembangan Pe
 
 Untuk informasi lebih lanjut:
 
-- 📧 **Reyhan Capri Moraga** – [reyhan.123140022@student.itera.ac.id](mailto:reyhan.123140022@student.itera.ac.id)  
-- 🌐 [LinkedIn Reyhan C. Moraga](https://www.linkedin.com/in/reyhan-capri-moraga-422072295)
+- 📧 **Romualdus Hary Prabowo** – [romualdus.123140083@student.itera.ac.id](mailto:romualdus.123140083@student.itera.ac.id) 
