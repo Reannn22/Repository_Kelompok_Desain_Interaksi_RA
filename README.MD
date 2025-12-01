@@ -63,7 +63,7 @@ ClassTera dikembangkan sebagai **website e-learning mandiri** dengan fitur-fitur
 |-------|------------|
 | **Kustomisasi Identitas Sekolah** | Menyesuaikan logo, warna, dan branding sekolah. |
 | **Dashboard Terintegrasi** | Semua materi, tugas, dan jadwal dikumpulkan dalam satu halaman utama. |
-| **Modul Pembelajaran Interaktif** | Fitur kuis, forum diskusi, dan akses mobile-friendly. |
+| **Modul Pembelajaran Interaktif** | Fitur alur pembelajaran, kuis atau latihan soal, dan forum diskusi. |
 | **Manajemen Pengguna dan Peran** | Sistem guru, dan siswa dengan hak akses berbeda. |
 
 ---
