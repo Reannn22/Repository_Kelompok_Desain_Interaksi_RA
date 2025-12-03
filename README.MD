@@ -20,6 +20,8 @@ Berbeda dari platform umum, ClassTera dirancang agar setiap institusi pendidikan
 | Reyhan Capri Moraga | 123140022 | System Analyst & Dokumentasi |
 | Ola Anggela Rosita | 123140042 | UI/UX Designer |
 
+*Pembagian peran hanya bersifat formalitas, seluruh pengerjaan dikerjakan bersama, sesuai pembagian yang tertera pada catatan kelompok.
+
 **Dosen Pengampu:**  
 Amirul Iqbal, S.Kom., M.Eng.  
 Aidil Afriansyah, S.Kom., M.Kom.  
