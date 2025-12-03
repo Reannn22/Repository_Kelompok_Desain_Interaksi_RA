@@ -89,16 +89,6 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ---
 
-## 🧱 Arsitektur & Tech Stack
-
-| Komponen | Teknologi |
-|-----------|------------|
-| **Backend** | Laravel (PHP) |
-| **Frontend** | Vue.js / React.js |
-| **Database** | MySQL |
-| **Deployment** | Railway / DigitalOcean / AWS |
-| **Prototyping** | Figma, FigJam |
-
 ---
 
 ## 📊 Skenario Pengguna
