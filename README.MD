@@ -1,6 +1,5 @@
 # 🌐 ClassTera: Platform Inklusif Pembelajaran Daring
 
-**Proposal Pengembangan Platform E-Learning Berbasis Human-Centered Design**
 
 ---
 
@@ -125,7 +124,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ## 📚 Lisensi
 
-Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Proyek Pengembangan Perangkat Lunak** di  
+Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Desain Interaksi** di  
 **Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA)**.
 
 © 2025 Kelompok XII – All rights reserved.
