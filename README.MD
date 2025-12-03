@@ -93,11 +93,11 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 ## 📊 Skenario Pengguna
 
 ### 1️⃣ Skenario Siswa – Mengumpulkan Tugas  
-- **User:** Ahmad Ali Mukti  
+- **User:** Siswa 
 - **Flow:** Login → Dasbor → Notifikasi Tugas → Detail → Unggah Jawaban → Konfirmasi  
 
 ### 2️⃣ Skenario Guru – Membuat & Memberikan Tugas  
-- **User:** Ibu Budiarti  
+- **User:** Guru
 - **Flow:** Login → Dasbor Guru → Pilih Kelas → Buat Tugas → Publikasikan → Notifikasi ke siswa  
 
 ---
