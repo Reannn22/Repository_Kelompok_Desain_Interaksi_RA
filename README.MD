@@ -1,6 +1,5 @@
 # 🌐 ClassTera: Platform Inklusif Pembelajaran Daring
 
-**Proposal Pengembangan Platform E-Learning Berbasis Human-Centered Design**
 
 ---
 
@@ -20,6 +19,8 @@ Berbeda dari platform umum, ClassTera dirancang agar setiap institusi pendidikan
 | Ahmad Ali Mukti | 123140155 | UX Researcher |
 | Reyhan Capri Moraga | 123140022 | System Analyst & Dokumentasi |
 | Ola Anggela Rosita | 123140042 | UI/UX Designer |
+
+*Pembagian peran hanya bersifat formalitas, seluruh pengerjaan dikerjakan bersama, sesuai pembagian yang tertera pada catatan kelompok.
 
 **Dosen Pengampu:**  
 Amirul Iqbal, S.Kom., M.Eng.  
@@ -63,7 +64,7 @@ ClassTera dikembangkan sebagai **website e-learning mandiri** dengan fitur-fitur
 |-------|------------|
 | **Kustomisasi Identitas Sekolah** | Menyesuaikan logo, warna, dan branding sekolah. |
 | **Dashboard Terintegrasi** | Semua materi, tugas, dan jadwal dikumpulkan dalam satu halaman utama. |
-| **Modul Pembelajaran Interaktif** | Fitur kuis, forum diskusi, dan akses mobile-friendly. |
+| **Modul Pembelajaran Interaktif** | Fitur alur pembelajaran, kuis atau latihan soal, dan forum diskusi. |
 | **Manajemen Pengguna dan Peran** | Sistem guru, dan siswa dengan hak akses berbeda. |
 
 ---
@@ -89,35 +90,24 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ---
 
-## 🧱 Arsitektur & Tech Stack
-
-| Komponen | Teknologi |
-|-----------|------------|
-| **Backend** | Laravel (PHP) |
-| **Frontend** | Vue.js / React.js |
-| **Database** | MySQL |
-| **Deployment** | Railway / DigitalOcean / AWS |
-| **Prototyping** | Figma, FigJam |
-
 ---
 
 ## 📊 Skenario Pengguna
 
 ### 1️⃣ Skenario Siswa – Mengumpulkan Tugas  
-- **User:** Ahmad Ali Mukti  
+- **User:** Siswa 
 - **Flow:** Login → Dasbor → Notifikasi Tugas → Detail → Unggah Jawaban → Konfirmasi  
 
 ### 2️⃣ Skenario Guru – Membuat & Memberikan Tugas  
-- **User:** Ibu Budiarti  
+- **User:** Guru
 - **Flow:** Login → Dasbor Guru → Pilih Kelas → Buat Tugas → Publikasikan → Notifikasi ke siswa  
 
 ---
 
 ## 🧩 Link Desain & Kolaborasi
 
-- 🎨 **Figma (Prototype):** [Klik di sini](https://www.figma.com/link-figma-prototype)
-- 🧠 **FigJam (Ideation Board):** [Klik di sini](https://www.figma.com/design/pbbDVowQD380IuRXnKksIn/Untitled?node-id=0-1&t=oLo1xeTSS14mtX67-1)
-- 🧠 **Miro (Brainstorming Board):** [Klik di sini](https://miro.com/app/board/uXjVJ5xTT9g=/)
+- 🎨 **Figma (Desain):** [Klik di sini](https://www.figma.com/design/cjFGb4Id5hkXuD9CduiepO/ClassTera-Wireframe--Design---Prototype?node-id=0-1&p=f&t=2S3y9JWRfi8NnihO-0)
+- 🧠 **Figma (Prototype):** [Klik di sini]()
 
 
 
@@ -136,7 +126,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 
 ## 📚 Lisensi
 
-Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Proyek Pengembangan Perangkat Lunak** di  
+Proyek ini dikembangkan sebagai bagian dari tugas besar mata kuliah **Desain Interaksi** di  
 **Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA)**.
 
 © 2025 Kelompok XII – All rights reserved.
