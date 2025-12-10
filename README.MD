@@ -118,7 +118,7 @@ Metode yang digunakan adalah **Design Thinking**, yang menempatkan kebutuhan pen
 - 🎨 **Figma (Prototype):** [Klik di sini](https://www.figma.com/link-figma-prototype)
 - 🧠 **FigJam (Ideation Board):** [Klik di sini](https://www.figma.com/design/pbbDVowQD380IuRXnKksIn/Untitled?node-id=0-1&t=oLo1xeTSS14mtX67-1)
 - 🧠 **Miro (Brainstorming Board):** [Klik di sini](https://miro.com/app/board/uXjVJ5xTT9g=/)
-
+- 🧠 **Form Sus ClassTera:** [Klik di sini](https://s.itera.id/SUS_CLASSTERA)
 
 
 ---
